@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "new commit for ci webhook");
+        System.out.println( "new commit for");
     }
 }
