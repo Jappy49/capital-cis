@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "new commit for");
+        System.out.println( "new s for");
     }
 }
